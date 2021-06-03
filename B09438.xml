@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for vvanton women by the example and expiation of Mary Higgs who was executed on Wednesday the 18th of July 1677 for committing the edious sin of burgery with her dog who was hanged on a tree the same day neer the place of execution shewing her penitent behaviour and last speech at the gallows, tune of In summer time.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09438</idno><idno type="EEBO-CITATION">62369445</idno>
+  <idno type="VID">187999</idno>
+  <idno type="EEBO-PROQUEST">2240875458</idno>
+  
+            <idno type="STC">Wing L3035</idno>
+            <idno type="STC">ESTC R180056</idno>
+            <idno type="OCLC">62369445</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187999)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for vvanton women by the example and expiation of Mary Higgs who was executed on Wednesday the 18th of July 1677 for committing the edious sin of burgery with her dog who was hanged on a tree the same day neer the place of execution shewing her penitent behaviour and last speech at the gallows, tune of In summer time.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Goldene Ball in West-Smith-Field neer the Hospital Gate,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Right half sheet contain: The second part to the same tune.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Higgs, Mary, d. 1677 --  Poetry.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:187999:1"/>
+            <pb facs="tcp:187999:2"/>
+            <head>A looking-glass for vvanton Women</head>
+            <head type="sub">By the Example and Expiation of <hi>Mary Higgs,</hi> who was executed on Wednesday the 18th. of <hi>July,</hi> 1677. for committing the odious sin of Bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gery, with her Dog, who was hanged on a Tree the same day, neer the place of Execution; shewing her penitent behaviour, and last speech at the Gallows.</head>
+            <opener>Tune of, <hi>In Summer time.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance,</hi>
+                        </p>
+                        <closer>
+                           <signed> Ro. L'Estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woman being hanged</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a man with a staff and a dog</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>TO a sad story now give ear,</l>
+               <l>of one who lived in this Land,</l>
+               <l>It may make the stoutest heart to fear,</l>
+               <l>and all vile Sinners trembling stand.</l>
+            </lg>
+            <lg>
+               <l>A wicked woman liv'd of late,</l>
+               <l>who did all honesty disdain;</l>
+               <l>All Modesty she much did hate,</l>
+               <l>and to her death did so remain.</l>
+            </lg>
+            <lg>
+               <l>Lassiviousness she much did love,</l>
+               <l>and Buggery was her delight,</l>
+               <l>To wantonness she still did move,</l>
+               <l>not thinking it would come to light.</l>
+            </lg>
+            <lg>
+               <l>A Mungril Curr which she did keep,</l>
+               <l>and us'd to do that beastly act,</l>
+               <l>In Court on her did fawn and leap,</l>
+               <l>but now hath suffered for the fact.</l>
+            </lg>
+            <lg>
+               <l>Near <hi>Cripple-gate</hi> her dwelling-place,</l>
+               <l>where she did act this beastly sin,</l>
+               <l>Which now hath brought her to disgrace</l>
+               <l>that she long time hath wollowed in.</l>
+            </lg>
+            <lg>
+               <l>She took delight in drunkenness,</l>
+               <l>and as a Common Woman she,</l>
+               <l>When she had drunk unto excess,</l>
+               <l>then God above she would defie.</l>
+            </lg>
+         </div>
+         <div n="2" type="song">
+            <pb facs="tcp:187999:2"/>
+            <opener>The Second Part, To the same Tune</opener>
+            <lg>
+               <l>Her chief desire was after mirth,</l>
+               <l>and hearing of sweet Melodies,</l>
+               <l>Thus wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lst she lived upon the earth,</l>
+               <l>Gods holy Laws she did despise.</l>
+            </lg>
+            <lg>
+               <l>No precepts that could her controul,</l>
+               <l>so wicked was her wretched life,</l>
+               <l>She like a Swine in mire did rowl,</l>
+               <l>which with her Husband caus'd some strife.</l>
+            </lg>
+            <lg>
+               <l>Gods Holy word she much abus'd,</l>
+               <l>and did profane his Sabbath-day,</l>
+               <l>The company of those refus'd,</l>
+               <l>who urg'd her to Repeat and Pray.</l>
+            </lg>
+            <lg>
+               <l>There's scarce a sin that can be nam'd,</l>
+               <l>but what she striv'd for to commit,</l>
+               <l>Her Lustful mind was so inflam'd,</l>
+               <l>that by no means she could quench it.</l>
+            </lg>
+            <lg>
+               <l>But being now Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>demn'd by Law,</l>
+               <l>on her past life she did rest it,</l>
+               <l>The Worm of Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cience did her gnaw,</l>
+               <l>'cause Gods Commands she did neglect.</l>
+            </lg>
+            <lg>
+               <l>O World, said she, thou canst not save,</l>
+               <l>this soul of mine from pain and woe,</l>
+               <l>No joys of Heaven I e're shall have,</l>
+               <l>unless my sins I can forgo.</l>
+            </lg>
+            <lg>
+               <l>O eyes of mine that us'd to see,</l>
+               <l>and take delights in Objects fair,</l>
+               <l>Must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow behold where Devils be,</l>
+               <l>poor Souls tormented in dispair,</l>
+            </lg>
+            <lg>
+               <l>I that was wont to sport and play,</l>
+               <l>most wantonly in many a place,</l>
+               <l>Must now depart from them away,</l>
+               <l>the Flames of Hell for to imbrace.</l>
+            </lg>
+            <lg>
+               <l>Now unto you that stand me by,</l>
+               <l>and hear what case my soul is in,</l>
+               <l>See that you never guilty be,</l>
+               <l>of any sad and heinous sin.</l>
+            </lg>
+            <lg>
+               <l>Let Prayer be your meat and drink,</l>
+               <l>your cloathing be humilitie,</l>
+               <l>On Gods just Laws be sure to think,</l>
+               <l>that you the joys of Heaven may see.</l>
+            </lg>
+            <lg>
+               <l>When this sad wretch her spéech had done</l>
+               <l>and tears in streaks run down her face;</l>
+               <l>Would melt a heart of steel or stone,</l>
+               <l>to think upon her woful case.</l>
+            </lg>
+            <lg>
+               <l>The Dog was hang'd with her just by,</l>
+               <l>a sad example let it be,</l>
+               <l>To all that do Gods laws defie,</l>
+               <l>and live as wickedly as she.</l>
+            </lg>
+            <lg>
+               <l>Strive more &amp; more Gods ways to love,</l>
+               <l>that you may here live happily;</l>
+               <l>Then you'l not miss sweet joys above,</l>
+               <l>nor never be afraid to dye,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball in <hi>West-smith-field,</hi> neer the <hi>Hospital-gate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
